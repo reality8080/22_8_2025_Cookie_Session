@@ -1,0 +1,12 @@
+package MAIN;
+
+import java.io.IOException;
+import jakarta.*;
+
+/**
+ * Servlet implementation class HOMEController
+ */
+@WebServlet("/HOMEController")
+public class HOMEController extends HttpServlet {
+	
+}

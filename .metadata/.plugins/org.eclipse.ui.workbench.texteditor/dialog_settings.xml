@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="hello"/>
+			<item value="login"/>
+			<item value="hell"/>
+			<item value="heloo"/>
+			<item value="he"/>
+			<item value="helloform"/>
+			<item value="&lt;servlet-name&gt;LoginServlet&lt;/servlet-name&gt;"/>
+			<item value="Hello"/>
+			<item value="Helo"/>
+			<item value="&lt;url-pattern&gt;trangchu&lt;/url-pattern&gt;"/>
+			<item value="servlet-mapping"/>
+			<item value="HttpServlet"/>
+		</list>
+	</section>
+</section>
